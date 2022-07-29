@@ -1,0 +1,7 @@
+C:\Users\ygzat\Desktop\Freya Chat Decryptor\Freya Chat Decryptor\bin\Debug\Freya Chat Decryptor.exe.config
+C:\Users\ygzat\Desktop\Freya Chat Decryptor\Freya Chat Decryptor\bin\Debug\Freya Chat Decryptor.exe
+C:\Users\ygzat\Desktop\Freya Chat Decryptor\Freya Chat Decryptor\bin\Debug\Freya Chat Decryptor.pdb
+C:\Users\ygzat\Desktop\Freya Chat Decryptor\Freya Chat Decryptor\obj\Debug\Freya Chat Decryptor.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Freya Chat Decryptor\Freya Chat Decryptor\obj\Debug\Freya Chat Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Freya Chat Decryptor\Freya Chat Decryptor\obj\Debug\Freya Chat Decryptor.exe
+C:\Users\ygzat\Desktop\Freya Chat Decryptor\Freya Chat Decryptor\obj\Debug\Freya Chat Decryptor.pdb
