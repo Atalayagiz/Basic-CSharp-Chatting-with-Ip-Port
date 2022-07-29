@@ -1,4 +1,4 @@
-CSharp is a simple - encrypted chat application.
+Simple - Encrypted chat application written in CSharp.
 
 When the application is first opened, select the color you want, which will prompt you to choose a color.
 
